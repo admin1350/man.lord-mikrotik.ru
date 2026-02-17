@@ -1,3 +1,5 @@
+# [edit](https://sysadmin.lord-mikrotik.ru/edit)
+
 [Обширный гайд по markdown](https://www.markdownlang.com/ru/intro/what-is-markdown.html)
 
 [Гадик](https://akawah.ru/linux/markdown.html?ysclid=mlqdza69ku857062238)
